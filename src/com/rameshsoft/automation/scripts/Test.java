@@ -8,5 +8,6 @@ public static void main(String[] args) {
 	System.out.println("hello how are you....");
 	System.out.println("789");
 System.out.println("123");
+int a =90;
 	}
 }
